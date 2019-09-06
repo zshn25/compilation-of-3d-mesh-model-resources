@@ -1,2 +1,108 @@
 # compilation-of-3d-mesh-model-resources
 A compilation of 3D mesh models found on the web for research purposes
+
+1. [ABC Dataset](https://deep-geometry.github.io/abc-dataset/), 2019
+
+    ![ABC](https://deep-geometry.github.io/abc-dataset/assets/images/header.png)
+
+    ![Random examples from the dataset. Most models are mechanical parts with sharp edges and well defined surfaces](images/abc.png)
+    Random examples from the dataset. Most models are mechanical parts with sharp edges and well defined surfaces
+
+2. [Pix3D](http://pix3d.csail.mit.edu/)
+   
+   ![Pix3d](images/pix3d.png)
+
+3. [Morgan McGuire, Computer Graphics Archive](https://casual-effects.com/data/), 2017
+
+    ![casualeffects](images/MorganMcGuireComputerGraphicsArchive.png)
+
+4. [GREYC 3D Colored Mesh Database](https://downloads.greyc.fr/Greyc3DColoredMeshDatabase/), 2017
+
+    ![greyc3dcoloredmeshdatabase](images/greyc3dcoloredmeshdatabase.png)
+
+5.  [ObjectNet3D](http://cvgl.stanford.edu/projects/objectnet3d/), 2016
+
+    ![ObjectNet3D](images/objectnet.png)
+
+6. [Thingi10K](https://ten-thousand-models.appspot.com/)
+   
+   ![](images/thingi.png)
+   ![](images/thingi_pairs.png)
+
+7. [ShapeNet](http://shapenet.cs.stanford.edu/shrec16/), 2016
+
+8. [NIST CAD Models](https://catalog.data.gov/dataset/nist-cad-models-and-step-files-with-pmi), 2016
+
+   ![NIST](https://www.nist.gov/sites/default/files/images/2018/01/10/pmi-ftc-figure_1.png)
+
+9.  [ModelNet](http://modelnet.cs.princeton.edu/#), 2015
+
+   ![](http://3dvision.princeton.edu/projects/2014/3DShapeNets/thumbnail.jpg)   
+
+11. [PASCAL+](http://cvgl.stanford.edu/projects/pascal3d.html), 2014
+   ![PASCAL+](http://cvgl.stanford.edu/projects/pascal3d+/cads.png)
+
+10. [IKEA Dataset](http://ikea.csail.mit.edu/), 2013
+
+    .|.|.
+    :--------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------:
+    |![ikea](http://ikea.csail.mit.edu/obj_list/IKEA_table_LACK/lack_table_3_obj0_object/0060.png)|![ikea](http://ikea.csail.mit.edu/obj_list/IKEA_chair_POANG/24abfbc0942cbf8fc8b7874340ccdda3_obj0_object/0060.png)|![ikea](http://ikea.csail.mit.edu/obj_list/IKEA_bookcase_BILLY/billy_bookcase_1_obj0_object/0060.png)|
+    |![ikea](http://ikea.csail.mit.edu/obj_list/IKEA_table_LACK/lack_table_2_obj0_object/0060.png)|![ikea](http://ikea.csail.mit.edu/obj_list/IKEA_bookcase_EXPEDIT/d0d7346d825b67f399fdfb1d38fef5b_obj0_object/0060.png)|![ikea](http://ikea.csail.mit.edu/obj_list/IKEA_sofa_KARLSTAD/karlstad_sofa_1_obj0_object/0060.png)|
+
+11. [SHREC07, Watertight Dataset](http://watertight.ge.imati.cnr.it/)
+
+    ![](images/watertight.png)
+
+12. [The Princeton Shape Benchmark](http://shape.cs.princeton.edu/benchmark/), 2003
+   
+   ![The Princeton Shape Benchmark](images/princeton.png)
+
+## Other Miscellaneous Data
+
+-  [Keenan's 3D Model Repository](https://www.cs.cmu.edu/~kmcrane/Projects/ModelRepository/)
+
+   ![](https://www.cs.cmu.edu/~kmcrane/Projects/ModelRepository/jerry_blendshapes.png)
+    .|.|.|.|.
+    :--------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------:|--:|--:|
+    |![utah](https://www.cs.cmu.edu/~kmcrane/Projects/ModelRepository/spot.png)|![ikea](https://www.cs.cmu.edu/~kmcrane/Projects/ModelRepository/bob.png)|![ikea](https://www.cs.cmu.edu/~kmcrane/Projects/ModelRepository/blub.jpg)|![ikea](https://www.cs.cmu.edu/~kmcrane/Projects/ModelRepository/origins.jpg)|![ikea](https://www.cs.cmu.edu/~kmcrane/Projects/ModelRepository/Nefertiti.png)|
+
+-  [The Utah 3D Animation Repository](http://www.sci.utah.edu/~wald/animrep/)
+
+    .|.|.|.|.|.
+    :--------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------:|--:|--:|--:|
+    |![utah](http://www.sci.utah.edu/~wald/animrep/generated/ben.small.jpg)|![ikea](http://www.sci.utah.edu/~wald/animrep/generated/explodingDragon.small.jpg)|![ikea](http://www.sci.utah.edu/~wald/animrep/generated/fairy.small.jpg)|![ikea](http://www.sci.utah.edu/~wald/animrep/generated/hand.small.jpg)|![ikea](http://www.sci.utah.edu/~wald/animrep/generated/toasters.small.jpg)|![ikea](http://www.sci.utah.edu/~wald/animrep/generated/wood-doll.small.jpg)|
+
+-  [The Stanford 3D Scanning Repository](http://graphics.stanford.edu/data/3Dscanrep/)
+    .|.|.|.|.|.
+    :--------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------:|--:|--:|--:|
+    |![utah](http://graphics.stanford.edu/data/3Dscanrep/stanford-bunny-cebal-ssh.gif)|![ikea](http://graphics.stanford.edu/data/3Dscanrep/happy.gif)|![ikea](http://graphics.stanford.edu/data/3Dscanrep/dragon.gif)|![ikea](http://graphics.stanford.edu/data/3Dscanrep/armadillo.gif)|![ikea](http://graphics.stanford.edu/data/3Dscanrep/xyzrgb/dragon_thumb.jpg)|![ikea](http://graphics.stanford.edu/data/3Dscanrep/lucy-vray_28_mil_poly_hdri_gi.gif)|
+
+
+-  [Killeroo 3D Scan](http://www.headus.com.au/samples/killeroo/index.html)
+  
+   ![killeroo](http://www.headus.com.au/samples/killeroo/scan.small.jpg)
+
+-  [Cyberware Whole Body Scans](http://www.headus.com.au/samples/vrml.html)
+  
+    .|.|.|.|.
+    :--------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------:|--:|--:|
+    |![utah](http://www.headus.com.au/samples/wb-vrml/small-wb6.jpg)|![ikea](http://www.headus.com.au/samples/wb-vrml/small-wb1.jpg)|![ikea](http://www.headus.com.au/samples/wb-vrml/small-wb2.jpg)|![ikea](http://www.headus.com.au/samples/wb-vrml/small-wb3.jpg)|![ikea](http://www.headus.com.au/samples/wb-vrml/small-wb5.jpg)|
+
+-  [MPI Informatics Building Model](http://resources.mpi-inf.mpg.de/mpimodel/v1.0/)
+
+    ![](http://resources.mpi-inf.mpg.de/mpimodel/v1.0/images/introimage.jpg)
+
+-  [Cornell Box](http://www.graphics.cornell.edu/online/box/data.html)
+
+    ![](http://www.graphics.cornell.edu/online/box/box.small.jpg)
+
+-  [NASA 3D Model Repo](https://nasa3d.arc.nasa.gov/models)
+
+   .|.|.|.|.|.
+    :--------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------:|--:|--:|--:|
+    |![utah](https://nasa3d.arc.nasa.gov/shared_assets/models/nmss-z2/Z2_428x321.png)|![ikea](https://nasa3d.arc.nasa.gov/shared_assets/models/sofia/ClosedEndView_428x321.jpg)|![ikea](https://nasa3d.arc.nasa.gov/shared_assets/models/r2/R2_428x321.GIF)|![ikea](https://nasa3d.arc.nasa.gov/shared_assets/models/mkiii-suit/mkiii-suit-428-321.jpg)|![ikea](https://nasa3d.arc.nasa.gov/shared_assets/models/astronaut-glove/astronautglove-428x321.jpg)|![ikea](https://nasa3d.arc.nasa.gov/shared_assets/models/astronaut/astronaut1-428-321.jpg)|
+
+
+## Other compilations
+
+-  [Level of Detail for 3D Graphics](http://lodbook.com/models/)
