@@ -49,9 +49,31 @@ A compilation of 3D mesh models found on the web for research purposes
     |![ikea](http://ikea.csail.mit.edu/obj_list/IKEA_table_LACK/lack_table_3_obj0_object/0060.png)|![ikea](http://ikea.csail.mit.edu/obj_list/IKEA_chair_POANG/24abfbc0942cbf8fc8b7874340ccdda3_obj0_object/0060.png)|![ikea](http://ikea.csail.mit.edu/obj_list/IKEA_bookcase_BILLY/billy_bookcase_1_obj0_object/0060.png)|
     |![ikea](http://ikea.csail.mit.edu/obj_list/IKEA_table_LACK/lack_table_2_obj0_object/0060.png)|![ikea](http://ikea.csail.mit.edu/obj_list/IKEA_bookcase_EXPEDIT/d0d7346d825b67f399fdfb1d38fef5b_obj0_object/0060.png)|![ikea](http://ikea.csail.mit.edu/obj_list/IKEA_sofa_KARLSTAD/karlstad_sofa_1_obj0_object/0060.png)|
 
-11. [SHREC07, Watertight Dataset](http://watertight.ge.imati.cnr.it/)
+11. [SHREC'10,'11](http://tosca.cs.technion.ac.il/book/shrec.html), 2010, 2011
+
+    .|.|.
+    :--------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------:
+    |![ikea](http://tosca.cs.technion.ac.il/book/images/shrec_retrieval.png)|![ikea]http://tosca.cs.technion.ac.il/book/images/shrec_corr.png)|![ikea](http://tosca.cs.technion.ac.il/book/images/shrec_feat.png)|
+
+12. [TOSCA High-res](http://tosca.cs.technion.ac.il/book/resources_data.html), 2008
+
+    ![](http://tosca.cs.technion.ac.il/images/data_toscahires.jpg)
+
+11. [SHREC'07, Watertight Dataset](http://watertight.ge.imati.cnr.it/)
 
     ![](images/watertight.png)
+    
+12. [Human Face](http://tosca.cs.technion.ac.il/book/resources_data.html), 2006
+
+    ![](http://tosca.cs.technion.ac.il/images/data_face.jpg)
+
+12. [Non-rigid world](http://tosca.cs.technion.ac.il/book/resources_data.html), 2006
+
+    ![](http://tosca.cs.technion.ac.il/images/data_nonrigid3d.jpg)
+
+12. [The Brown Mesh Set](http://graphics.cs.brown.edu/games/brown-mesh-set/)
+
+    ![](http://graphics.cs.brown.edu/games/brown-mesh-set/icon.png)
 
 12. [The Princeton Shape Benchmark](http://shape.cs.princeton.edu/benchmark/), 2003
    
@@ -103,6 +125,8 @@ A compilation of 3D mesh models found on the web for research purposes
    .|.|.|.|.|.
     :--------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------:|--:|--:|--:|
     |![utah](https://nasa3d.arc.nasa.gov/shared_assets/models/nmss-z2/Z2_428x321.png)|![ikea](https://nasa3d.arc.nasa.gov/shared_assets/models/sofia/ClosedEndView_428x321.jpg)|![ikea](https://nasa3d.arc.nasa.gov/shared_assets/models/r2/R2_428x321.GIF)|![ikea](https://nasa3d.arc.nasa.gov/shared_assets/models/mkiii-suit/mkiii-suit-428-321.jpg)|![ikea](https://nasa3d.arc.nasa.gov/shared_assets/models/astronaut-glove/astronautglove-428x321.jpg)|![ikea](https://nasa3d.arc.nasa.gov/shared_assets/models/astronaut/astronaut1-428-321.jpg)|
+
+-  [Aim@Shape](http://visionair.ge.imati.cnr.it/ontologies/shapes/)
 
 -  [ORCA: Open Research Content Archive](https://developer.nvidia.com/orca)
 
