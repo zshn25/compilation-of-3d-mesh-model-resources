@@ -20,31 +20,44 @@ A compilation of 3D mesh models found on the web for research purposes
 
     ![greyc3dcoloredmeshdatabase](images/greyc3dcoloredmeshdatabase.png)
 
-5.  [ObjectNet3D](http://cvgl.stanford.edu/projects/objectnet3d/), 2016
-
-    ![ObjectNet3D](images/objectnet.png)
-
-6. [Thingi10K](https://ten-thousand-models.appspot.com/)
+6. [Thingi10K](https://ten-thousand-models.appspot.com/), 2017
    
    ![](images/thingi.png)
    ![](images/thingi_pairs.png)
+
+5.  [ObjectNet3D](http://cvgl.stanford.edu/projects/objectnet3d/), 2016
+
+    ![ObjectNet3D](images/objectnet.png)
 
 7. [ShapeNet](http://shapenet.cs.stanford.edu/shrec16/), 2016
 
 8. [NIST CAD Models](https://catalog.data.gov/dataset/nist-cad-models-and-step-files-with-pmi), 2016
 
    ![NIST](https://www.nist.gov/sites/default/files/images/2018/01/10/pmi-ftc-figure_1.png)
+   
+9. [Kids with Topological Noise](https://vision.in.tum.de/data/datasets/topkids), 2016
+
+   ![topkids](https://vision.in.tum.de/_media/data/datasets/topkids/topkids_teaser.png)
 
 9. [TOSCA PARTIAL](https://vision.in.tum.de/data/datasets/partial), 2015
 
    ![TOSCA](https://vision.in.tum.de/_media/data/datasets/partial.png)
 
-9.  [ModelNet](http://modelnet.cs.princeton.edu/#), 2015
+9. [ModelNet](http://modelnet.cs.princeton.edu/#), 2015
 
    ![](http://3dvision.princeton.edu/projects/2014/3DShapeNets/thumbnail.jpg)   
 
 11. [PASCAL+](http://cvgl.stanford.edu/projects/pascal3d.html), 2014
-   ![PASCAL+](http://cvgl.stanford.edu/projects/pascal3d+/cads.png)
+
+    ![PASCAL+](http://cvgl.stanford.edu/projects/pascal3d+/cads.png)
+   
+12. [Kids](https://vision.in.tum.de/data/datasets/kids), 2014
+
+    ![kids](https://vision.in.tum.de/_media/data/datasets/rodola-cvpr14-kids-large.png)
+    
+13. [Clutter](https://vision.in.tum.de/data/datasets/clutter), 2013
+
+    ![clutter](https://vision.in.tum.de/_media/members/rodola/datasets/rodola-ijcv12-scene.png)
 
 10. [IKEA Dataset](http://ikea.csail.mit.edu/), 2013
 
