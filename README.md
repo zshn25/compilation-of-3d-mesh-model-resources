@@ -1,5 +1,7 @@
 # compilation-of-3d-mesh-model-resources
-A compilation of 3D mesh models found on the web for research purposes
+A compilation of 3D mesh models found on the web for research purposes.
+
+__Disclamair__: All images shown here are the sole porperty of their respective owneres. I do not claim any authority over them.
 
 1. [ABC Dataset](https://deep-geometry.github.io/abc-dataset/), 2019
 
