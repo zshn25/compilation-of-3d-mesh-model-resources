@@ -36,6 +36,7 @@ A compilation of 3D mesh models found on the web for research purposes
    ![NIST](https://www.nist.gov/sites/default/files/images/2018/01/10/pmi-ftc-figure_1.png)
 
 9. [TOSCA PARTIAL](https://vision.in.tum.de/data/datasets/partial), 2015
+
    ![TOSCA](https://vision.in.tum.de/_media/data/datasets/partial.png)
 
 9.  [ModelNet](http://modelnet.cs.princeton.edu/#), 2015
@@ -56,7 +57,7 @@ A compilation of 3D mesh models found on the web for research purposes
 
     .|.|.
     :--------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------:
-    |![ikea](http://tosca.cs.technion.ac.il/book/images/shrec_retrieval.png)|![ikea]http://tosca.cs.technion.ac.il/book/images/shrec_corr.png)|![ikea](http://tosca.cs.technion.ac.il/book/images/shrec_feat.png)|
+    |![ikea](http://tosca.cs.technion.ac.il/book/images/shrec_retrieval.png)|![ikea](http://tosca.cs.technion.ac.il/book/images/shrec_corr.png)|![ikea](http://tosca.cs.technion.ac.il/book/images/shrec_feat.png)|
 
 12. [TOSCA High-res](http://tosca.cs.technion.ac.il/book/resources_data.html), 2008
 
