@@ -10,6 +10,14 @@ __Disclamair__: All images shown here are the sole porperty of their respective 
     ![Random examples from the dataset. Most models are mechanical parts with sharp edges and well defined surfaces](images/abc.png)
     Random examples from the dataset. Most models are mechanical parts with sharp edges and well defined surfaces
 
+2. [SHREC'19](https://shrec19.cs.cf.ac.uk/), Shape Correspondence with Isometric and Non-Isometric Deformations, 2019
+
+   ![shrec19](https://shrec19.cs.cf.ac.uk/banner.jpg)
+   
+3. [SHREC'19](http://profs.scienze.univr.it/~marin/shrec19/), Correspondence in Humans with Different Connectivity, 2019
+
+   ![shrec19](http://profs.scienze.univr.it/~marin/shrec19/teaser.png)
+
 2. [Pix3D](http://pix3d.csail.mit.edu/)
    
    ![Pix3d](images/pix3d.png)
