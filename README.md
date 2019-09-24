@@ -60,6 +60,10 @@ __Disclamair__: All images shown here are the sole porperty of their respective 
 11. [PASCAL+](http://cvgl.stanford.edu/projects/pascal3d.html), 2014
 
     ![PASCAL+](http://cvgl.stanford.edu/projects/pascal3d+/cads.png)
+    
+12. [FAUST](http://faust.is.tue.mpg.de/)
+
+    ![faust](http://faust.is.tue.mpg.de/assets/test_resize.png)
    
 12. [Kids](https://vision.in.tum.de/data/datasets/kids), 2014
 
