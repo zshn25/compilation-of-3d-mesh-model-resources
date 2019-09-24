@@ -73,6 +73,12 @@ __Disclamair__: All images shown here are the sole porperty of their respective 
 
     ![kids](https://vision.in.tum.de/_media/data/datasets/rodola-cvpr14-kids-large.png)
     
+13. [Human 3.6](http://vision.imar.ro/human3.6m/description.php)
+
+    .|.|.
+    :--------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------:
+    |![ikea](http://vision.imar.ro/human3.6m/images/overviewimg2.png)|![ikea](http://vision.imar.ro/human3.6m/images/overviewimg.png)|![ikea](http://vision.imar.ro/human3.6m/images/scans/2.png)|
+    
 13. [Clutter](https://vision.in.tum.de/data/datasets/clutter), 2013
 
     ![clutter](https://vision.in.tum.de/_media/members/rodola/datasets/rodola-ijcv12-scene.png)
