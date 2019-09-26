@@ -100,6 +100,10 @@ __Disclamair__: All images shown here are the sole porperty of their respective 
     :--------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------:
     |![ikea](http://tosca.cs.technion.ac.il/book/images/shrec_retrieval.png)|![ikea](http://tosca.cs.technion.ac.il/book/images/shrec_corr.png)|![ikea](http://tosca.cs.technion.ac.il/book/images/shrec_feat.png)|
 
+12 [A Benchmark for 3D Mesh Segmentation](http://segeval.cs.princeton.edu/)
+
+   ![benchmark](http://segeval.cs.princeton.edu/public/figures/representative.jpg)
+
 12. [TOSCA High-res](http://tosca.cs.technion.ac.il/book/resources_data.html), 2008
 
     ![](http://tosca.cs.technion.ac.il/images/data_toscahires.jpg)
