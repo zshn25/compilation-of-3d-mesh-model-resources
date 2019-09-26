@@ -128,6 +128,13 @@ __Disclamair__: All images shown here are the sole porperty of their respective 
 
     ![](http://graphics.cs.brown.edu/games/brown-mesh-set/icon.png)
 
+12. [Mesh Data from Deformation Transfer for Triangle Meshes](http://people.csail.mit.edu/sumner/research/deftransfer/data.html), 2004
+
+    .|.|.|.|.
+    :--------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------:|--:|--:|
+    |![Keenan](http://people.csail.mit.edu/sumner/research/deftransfer/stamps/horse-poses.jpg)|![Keenan](http://people.csail.mit.edu/sumner/research/deftransfer/stamps/camel-collapse.jpg)|![Keenan](http://people.csail.mit.edu/sumner/research/deftransfer/stamps/cat-poses.jpg)|![Keenan](http://people.csail.mit.edu/sumner/research/deftransfer/stamps/camel-gallop.jpg)|![Keenan](http://people.csail.mit.edu/sumner/research/deftransfer/stamps/lion-poses.jpg)|
+    |![Keenan](http://people.csail.mit.edu/sumner/research/deftransfer/stamps/face-poses.jpg)|![Keenan](http://people.csail.mit.edu/sumner/research/deftransfer/stamps/head-poses.jpg)|![Keenan](http://people.csail.mit.edu/sumner/research/deftransfer/stamps/flamingo-poses.jpg)|![Keenan](http://people.csail.mit.edu/sumner/research/deftransfer/stamps/elephant-poses.jpg)|![Keenan](http://people.csail.mit.edu/sumner/research/deftransfer/stamps/elephant-gallop.jpg)|
+
 12. [The Princeton Shape Benchmark](http://shape.cs.princeton.edu/benchmark/), 2003
    
    ![The Princeton Shape Benchmark](images/Princeton.png)
