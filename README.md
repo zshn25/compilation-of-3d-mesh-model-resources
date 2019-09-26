@@ -200,4 +200,6 @@ __Disclamair__: All images shown here are the sole porperty of their respective 
 
 - [Aim@Shape Links](http://visionair.ge.imati.cnr.it/ontologies/shapes/link.jsp)
 
--  [Level of Detail for 3D Graphics](http://lodbook.com/models/)
+- [Level of Detail for 3D Graphics](http://lodbook.com/models/)
+
+- [Point Cloud Library Dataset](http://www.pointclouds.org/news/2013/01/07/point-cloud-data-sets/)
