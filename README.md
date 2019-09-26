@@ -185,6 +185,8 @@ __Disclamair__: All images shown here are the sole porperty of their respective 
 
 ## Other compilations
 
+- [Wikipedia - List_of_common_3D_test_models](https://en.wikipedia.org/wiki/List_of_common_3D_test_models)
+
 - [Aim@Shape Links](http://visionair.ge.imati.cnr.it/ontologies/shapes/link.jsp)
 
 -  [Level of Detail for 3D Graphics](http://lodbook.com/models/)
