@@ -52,6 +52,10 @@ __Disclamair__: All images shown here are the sole porperty of their respective 
 9. [Kids with Topological Noise](https://vision.in.tum.de/data/datasets/topkids), 2016
 
    ![topkids](https://vision.in.tum.de/_media/data/datasets/topkids/topkids_teaser.png)
+   
+9. [A Large Dataset of Object Scans](http://redwood-data.org/3dscan/index.html), 2016
+
+   ![A Large Dataset of Object Scans](http://redwood-data.org/3dscan/img/teaser.jpg)
 
 9. [TOSCA PARTIAL](https://vision.in.tum.de/data/datasets/partial), 2015
 
