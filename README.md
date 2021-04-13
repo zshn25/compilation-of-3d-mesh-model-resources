@@ -12,7 +12,7 @@ __Disclamair__: All images shown here are the sole porperty of their respective 
 
 2. [SHREC'19](https://shrec19.cs.cf.ac.uk/), Shape Correspondence with Isometric and Non-Isometric Deformations, 2019
 
-   ![shrec19](https://shrec19.cs.cf.ac.uk/banner.jpg)
+   ![shrec19](https://shrec19.cs.cf.ac.uk/img/banner.jpg)
    
 3. [SHREC'19](http://profs.scienze.univr.it/~marin/shrec19/), Correspondence in Humans with Different Connectivity, 2019
 
@@ -44,6 +44,8 @@ __Disclamair__: All images shown here are the sole porperty of their respective 
     ![ObjectNet3D](images/objectnet.png)
 
 7. [ShapeNet](http://shapenet.cs.stanford.edu/shrec16/), 2016
+
+    ![shapenet](http://shapenet.cs.stanford.edu/shrec16/images/logo.png)
 
 8. [NIST CAD Models](https://catalog.data.gov/dataset/nist-cad-models-and-step-files-with-pmi), 2016
 
@@ -104,9 +106,9 @@ __Disclamair__: All images shown here are the sole porperty of their respective 
     :--------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------:
     |![ikea](http://tosca.cs.technion.ac.il/book/images/shrec_retrieval.png)|![ikea](http://tosca.cs.technion.ac.il/book/images/shrec_corr.png)|![ikea](http://tosca.cs.technion.ac.il/book/images/shrec_feat.png)|
 
-12 [A Benchmark for 3D Mesh Segmentation](http://segeval.cs.princeton.edu/), 2009
+12. [A Benchmark for 3D Mesh Segmentation](http://segeval.cs.princeton.edu/), 2009
 
-   ![benchmark](http://segeval.cs.princeton.edu/public/figures/representative.jpg)
+    ![benchmark](http://segeval.cs.princeton.edu/public/figures/representative.jpg)
 
 12. [TOSCA High-res](http://tosca.cs.technion.ac.il/book/resources_data.html), 2008
 
