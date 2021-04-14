@@ -44,6 +44,8 @@ __Disclaimer__: All images shown here are the sole property of their respective 
 
 7. [ShapeNet](http://shapenet.cs.stanford.edu/shrec16/), 2016
 
+    ![shapenet](http://shapenet.cs.stanford.edu/shrec16/images/logo.png)
+
 8. [NIST CAD Models](https://catalog.data.gov/dataset/nist-cad-models-and-step-files-with-pmi), 2016
 
    ![NIST](https://www.nist.gov/sites/default/files/images/2018/01/10/pmi-ftc-figure_1.png)
@@ -103,9 +105,9 @@ __Disclaimer__: All images shown here are the sole property of their respective 
     :--------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------:
     |![shrec10](http://tosca.cs.technion.ac.il/book/images/shrec_retrieval.png)|![shrec10](http://tosca.cs.technion.ac.il/book/images/shrec_corr.png)|![shrec10](http://tosca.cs.technion.ac.il/book/images/shrec_feat.png)|
 
-12 [A Benchmark for 3D Mesh Segmentation](http://segeval.cs.princeton.edu/), 2009
+12. [A Benchmark for 3D Mesh Segmentation](http://segeval.cs.princeton.edu/), 2009
 
-   ![benchmark](http://segeval.cs.princeton.edu/public/figures/representative.jpg)
+    ![benchmark](http://segeval.cs.princeton.edu/public/figures/representative.jpg)
 
 12. [TOSCA High-res](http://tosca.cs.technion.ac.il/book/resources_data.html), 2008
 
