@@ -1,18 +1,17 @@
-# compilation-of-3d-mesh-model-resources
 A compilation of 3D mesh models found on the web for research purposes.
 
-__Disclamair__: All images shown here are the sole porperty of their respective owneres. I do not claim any authority over them.
+__Disclaimer__: All images shown here are the sole property of their respective owners. I do not claim any authority over them.
 
 1. [ABC Dataset](https://deep-geometry.github.io/abc-dataset/), 2019
 
     ![ABC](https://deep-geometry.github.io/abc-dataset/assets/images/header.png)
 
-    ![Random examples from the dataset. Most models are mechanical parts with sharp edges and well defined surfaces](images/abc.png)
+    ![Random examples from the dataset. Most models are mechanical parts with sharp edges and well defined surfaces](https://github.com/zshn25/compilation-of-3d-mesh-model-resources/blob/master/images/abc.png?raw=true)
     Random examples from the dataset. Most models are mechanical parts with sharp edges and well defined surfaces
 
 2. [SHREC'19](https://shrec19.cs.cf.ac.uk/), Shape Correspondence with Isometric and Non-Isometric Deformations, 2019
 
-   ![shrec19](https://shrec19.cs.cf.ac.uk/banner.jpg)
+   ![shrec19](https://shrec19.cs.cf.ac.uk/img/banner.jpg)
    
 3. [SHREC'19](http://profs.scienze.univr.it/~marin/shrec19/), Correspondence in Humans with Different Connectivity, 2019
 
@@ -20,11 +19,11 @@ __Disclamair__: All images shown here are the sole porperty of their respective 
 
 2. [Pix3D](http://pix3d.csail.mit.edu/), 2018
    
-   ![Pix3d](images/pix3d.png)
+   ![Pix3d](https://github.com/zshn25/compilation-of-3d-mesh-model-resources/blob/master/images/pix3d.png?raw=true)
 
 3. [Morgan McGuire, Computer Graphics Archive](https://casual-effects.com/data/), 2017
 
-    ![casualeffects](images/MorganMcGuireComputerGraphicsArchive.png)
+    ![casualeffects](https://github.com/zshn25/compilation-of-3d-mesh-model-resources/blob/master/images/MorganMcGuireComputerGraphicsArchive.png?raw=true)
 
 4. [MPII Human Shape](http://humanshape.mpi-inf.mpg.de/#)
 
@@ -32,16 +31,16 @@ __Disclamair__: All images shown here are the sole porperty of their respective 
 
 4. [GREYC 3D Colored Mesh Database](https://downloads.greyc.fr/Greyc3DColoredMeshDatabase/), 2017
 
-    ![greyc3dcoloredmeshdatabase](images/greyc3dcoloredmeshdatabase.png)
+    ![greyc3dcoloredmeshdatabase](https://github.com/zshn25/compilation-of-3d-mesh-model-resources/blob/master/images/greyc3dcoloredmeshdatabase.png?raw=true)
 
 6. [Thingi10K](https://ten-thousand-models.appspot.com/), 2017
    
-   ![](images/thingi.png)
-   ![](images/thingi_pairs.png)
+   ![](https://github.com/zshn25/compilation-of-3d-mesh-model-resources/blob/master/images/thingi.png?raw=true)
+   ![](https://github.com/zshn25/compilation-of-3d-mesh-model-resources/blob/master/images/thingi_pairs.png?raw=true)
 
 5.  [ObjectNet3D](http://cvgl.stanford.edu/projects/objectnet3d/), 2016
 
-    ![ObjectNet3D](images/objectnet.png)
+    ![ObjectNet3D](https://github.com/zshn25/compilation-of-3d-mesh-model-resources/blob/master/images/objectnet.png?raw=true)
 
 7. [ShapeNet](http://shapenet.cs.stanford.edu/shrec16/), 2016
 
@@ -102,7 +101,7 @@ __Disclamair__: All images shown here are the sole porperty of their respective 
 
     .|.|.
     :--------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------:
-    |![ikea](http://tosca.cs.technion.ac.il/book/images/shrec_retrieval.png)|![ikea](http://tosca.cs.technion.ac.il/book/images/shrec_corr.png)|![ikea](http://tosca.cs.technion.ac.il/book/images/shrec_feat.png)|
+    |![shrec10](http://tosca.cs.technion.ac.il/book/images/shrec_retrieval.png)|![shrec10](http://tosca.cs.technion.ac.il/book/images/shrec_corr.png)|![shrec10](http://tosca.cs.technion.ac.il/book/images/shrec_feat.png)|
 
 12 [A Benchmark for 3D Mesh Segmentation](http://segeval.cs.princeton.edu/), 2009
 
@@ -118,7 +117,7 @@ __Disclamair__: All images shown here are the sole porperty of their respective 
 
 11. [SHREC'07, Watertight Dataset](http://watertight.ge.imati.cnr.it/), 2007
 
-    ![](images/watertight.png)
+    ![](https://github.com/zshn25/compilation-of-3d-mesh-model-resources/blob/master/images/watertight.png?raw=true)
     
 12. [Human Face](http://tosca.cs.technion.ac.il/book/resources_data.html), 2006
 
@@ -145,7 +144,7 @@ __Disclamair__: All images shown here are the sole porperty of their respective 
 
 12. [The Princeton Shape Benchmark](http://shape.cs.princeton.edu/benchmark/), 2003
    
-   ![The Princeton Shape Benchmark](images/Princeton.png)
+   ![The Princeton Shape Benchmark](https://github.com/zshn25/compilation-of-3d-mesh-model-resources/blob/master/images/Princeton.png?raw=true)
 
 ## Other Miscellaneous Data
 
