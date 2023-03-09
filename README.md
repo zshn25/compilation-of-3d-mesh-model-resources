@@ -1,6 +1,34 @@
 A compilation of 3D mesh models found on the web for research purposes.
 
-__Disclaimer__: All images shown here are the sole property of their respective owners. I do not claim any authority over them.
+__Disclaimer__: All images shown here are the sole property of their respective owners. I do not claim any Copyright/authority over them.
+
+__Note__: This list is not regularly updated and is looking for maintainers. If you want to include some dataset, please open a Pull Request.
+
+1. [Hypersim](https://github.com/apple/ml-hypersim)
+
+    ![Hypersim](https://github.com/apple/ml-hypersim/raw/main/docs/teaser_web.jpg)
+
+1. [Habitat-Matterport 3D Research Dataset (HM3D)](https://matterport.com/habitat-matterport-3d-research-dataset), [Link2](https://github.com/matterport/habitat-matterport-3dresearch), [Link3](https://aihabitat.org/datasets/hm3d/), 2021
+
+1. [Omnidata](https://github.com/EPFL-VILAB/omnidata/tree/main/omnidata_tools/dataset#readme), [Link2](https://omnidata.vision), 2021
+
+    ![Omnidata](https://camo.githubusercontent.com/0eac9fdba667ef1187453ebf3ea5ecfa188420e801c9999b131115a18a7bfda7/68747470733a2f2f6f6d6e69646174612e766973696f6e2f6173736574732f6d61696e5f706167652f737461727465725f646174617365742e6a7067)
+
+2. [TASKONOMY Dataset](https://github.com/StanfordVL/taskonomy/tree/master/data), 2021
+    ![TASKONOMY](https://camo.githubusercontent.com/654e0c61a179e469b82a8b346bf7e222e1f821675a3f800a4c3f2b7f19b2997b/687474703a2f2f7461736b6f6e6f6d792e766973696f6e2f7374617469632f696d616765732f646174617365745f7468756d626e61696c2e706e67)
+
+1. [BlendedMVS](https://github.com/YoYo000/BlendedMVS), 2020
+
+    ![](https://github.com/YoYo000/BlendedMVS/raw/master/doc/cover0.gif)
+    ![](https://github.com/YoYo000/BlendedMVS/raw/master/doc/cover1.gif)
+
+1. [Scanned Objects by Google Research](https://app.gazebosim.org/GoogleResearch/fuel/collections/Scanned%20Objects%20by%20Google%20Research), 2020
+
+    <!-- ![](blob:https://app.gazebosim.org/6816943e-1f8d-4c2f-8ad6-f20c2c1a0965) -->
+
+1. [Replica](https://github.com/facebookresearch/Replica-Dataset), [ReplicaCAD](https://aihabitat.org/datasets/replica_cad/), 2019
+
+    ![replica](https://github.com/facebookresearch/Replica-Dataset/raw/main/assets/ReplicaModalities.png)
 
 1. [ABC Dataset](https://deep-geometry.github.io/abc-dataset/), 2019
 
@@ -28,6 +56,14 @@ __Disclaimer__: All images shown here are the sole property of their respective 
 4. [MPII Human Shape](http://humanshape.mpi-inf.mpg.de/#)
 
    ![mpi](http://humanshape.mpi-inf.mpg.de/images/pca_components.png)
+
+4. [Tanks and Temples](https://www.tanksandtemples.org/)
+    ![](https://www.tanksandtemples.org/static/websites/modern-business/images/tankB.png)
+    ![](https://www.tanksandtemples.org/static/websites/modern-business/images/templeB.png)
+
+4. [2D-3D Semantics](https://github.com/alexsax/2D-3D-Semantics), 2017
+
+    ![2d3d](https://github.com/alexsax/2D-3D-Semantics/raw/master/assets/figure_1.jpg?raw=true)
 
 4. [GREYC 3D Colored Mesh Database](https://downloads.greyc.fr/Greyc3DColoredMeshDatabase/), 2017
 
@@ -214,6 +250,8 @@ __Disclaimer__: All images shown here are the sole property of their respective 
 ## Other compilations
 
 - [Wikipedia - List_of_common_3D_test_models](https://en.wikipedia.org/wiki/List_of_common_3D_test_models)
+
+- [Free 3D Models Download: The Best Sites of 2022](https://all3dp.com/1/free-3d-models-download-best-sites-3d-archive-3d/)
 
 - [Aim@Shape Links](http://visionair.ge.imati.cnr.it/ontologies/shapes/link.jsp)
 
