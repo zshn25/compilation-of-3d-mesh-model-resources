@@ -4,7 +4,11 @@ __Disclaimer__: All images shown here are the sole property of their respective 
 
 __Note__: This list is not regularly updated and is looking for maintainers. If you want to include some dataset, please open a Pull Request.
 
-1. [Hypersim](https://github.com/apple/ml-hypersim)
+1. [Objaverse](https://objaverse.allenai.org/), 2023: 800K+ Annotated 3D Objects
+    
+    ![Objaverse](https://objaverse.allenai.org/vdiv.png)
+
+1. [Hypersim](https://github.com/apple/ml-hypersim), 2021
 
     ![Hypersim](https://github.com/apple/ml-hypersim/raw/main/docs/teaser_web.jpg)
 
