@@ -4,9 +4,32 @@ __Disclaimer__: All images shown here are the sole property of their respective 
 
 __Note__: This list is not regularly updated and is looking for maintainers. If you want to include some dataset, please open a Pull Request.
 
+1. [OmniObject3D](https://omniobject3d.github.io/), 2023: 6k objects in 190 categories
+    ![OmniObject3D](https://omniobject3d.github.io/img/teaser_full_v2.gif)
+
 1. [Objaverse](https://objaverse.allenai.org/), 2023: 800K+ Annotated 3D Objects
     
     ![Objaverse](https://objaverse.allenai.org/vdiv.png)
+
+1. [Amazon Berkeley Objects (ABO) Dataset](https://amazon-berkeley-objects.s3.amazonaws.com/index.html), 2022
+
+    ![abo](https://amazon-berkeley-objects.s3.amazonaws.com/static_html/assets/render_collection_bright_b.jpg)
+
+1. [3D-FUTURE: 3D FUrniture shape with TextURE](https://tianchi.aliyun.com/specials/promotion/alibaba-3d-future), 2021
+
+    ![3dfuture](https://img.alicdn.com/tfs/TB1HTSfz4v1gK0jSZFFXXb0sXXa-1999-1037.png)
+
+1. [Co3D: Common Objects in 3D](https://ai.meta.com/datasets/CO3D-dataset/), 2021
+
+    ![co3d](https://github.com/facebookresearch/co3d/raw/main/grid.gif)
+
+1. [AKB-48 Articulation Objects](https://liuliu66.github.io/articulationobjects/index.html)
+
+    ![akb-48](https://liuliu66.github.io/articulationobjects/images/templatemo_middle.png)
+
+1. [Toys4K](https://github.com/rehg-lab/lowshot-shapebias#toys4k-3d-object-dataset), 2021: 4k objects
+
+    ![Toys4K](https://user-images.githubusercontent.com/13421307/144886151-2d04660f-816b-4f40-9b7e-ed1851c1f2c6.gif)
 
 1. [Hypersim](https://github.com/apple/ml-hypersim), 2021
 
@@ -29,6 +52,10 @@ __Note__: This list is not regularly updated and is looking for maintainers. If 
 1. [Scanned Objects by Google Research](https://app.gazebosim.org/GoogleResearch/fuel/collections/Scanned%20Objects%20by%20Google%20Research), 2020
 
     <!-- ![](blob:https://app.gazebosim.org/6816943e-1f8d-4c2f-8ad6-f20c2c1a0965) -->
+
+1. [ScanObjectNN: Revisiting Point Cloud Classification: A New Benchmark Dataset and Classification Model on Real-World Data](https://hkust-vgd.github.io/scanobjectnn/), 2019: 15k real scanned objects
+
+    ![scanobjectnn](https://hkust-vgd.github.io/scanobjectnn/images/objects_teaser.png)
 
 1. [Replica](https://github.com/facebookresearch/Replica-Dataset), [ReplicaCAD](https://aihabitat.org/datasets/replica_cad/), 2019
 
