@@ -291,3 +291,20 @@ __Note__: This list is not regularly updated and is looking for maintainers. If 
 - [Point Cloud Library Dataset](http://www.pointclouds.org/news/2013/01/07/point-cloud-data-sets/)
 
 - [Yulan Guo's website](http://yulanguo.me/dataset.html)
+
+
+___
+
+© Zeeshan Khan Suri, [<i class="fab fa-creative-commons"></i> <i class="fab fa-creative-commons-by"></i> <i class="fab fa-creative-commons-nc"></i>](http://creativecommons.org/licenses/by-nc/4.0/)
+
+If this article was helpful to you, consider citing
+
+```
+@misc{suri_compilation_3d_models,
+      title={ Compilation of 3D mesh models },
+      url={https://zshn25.github.io/compilation-3d-mesh-resources/}, 
+      journal={Curiosity}, 
+      author={Suri, Zeeshan Khan}, 
+      year={2021}, 
+      month={Aug}}
+```
