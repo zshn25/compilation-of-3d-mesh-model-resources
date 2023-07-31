@@ -1,3 +1,7 @@
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/zshn25/compilation-of-3d-mesh-model-resources/graphs/commit-activity)
+[![PR's Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](https://github.com/zshn25/compilation-of-3d-mesh-model-resources/pulls)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+
 A compilation of 3D mesh models found on the web for research purposes.
 
 __Disclaimer__: All images shown here are the sole property of their respective owners. I do not claim any Copyright/authority over them.
