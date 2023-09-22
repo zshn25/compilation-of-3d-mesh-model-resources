@@ -223,11 +223,20 @@ __Note__: This list is not regularly updated and is looking for maintainers. If 
 
 -  [Keenan's 3D Model Repository](https://www.cs.cmu.edu/~kmcrane/Projects/ModelRepository/)
 
-   ![](https://www.cs.cmu.edu/~kmcrane/Projects/ModelRepository/jerry_blendshapes.png)
+   ![](https://github.com/zshn25/compilation-of-3d-mesh-model-resources/blob/master/images/jerry_blendshapes.png?raw=true), mostly under [CC0 1.0 Universal (CC0 1.0) Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/)
+
    
    .|.|.|.|.
    :--------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------:|--:|--:|
-   |![Keenan](https://www.cs.cmu.edu/~kmcrane/Projects/ModelRepository/spot.png)|![Keenan](https://www.cs.cmu.edu/~kmcrane/Projects/ModelRepository/bob.png)|![Keenan](https://www.cs.cmu.edu/~kmcrane/Projects/ModelRepository/blub.jpg)|![Keenan](https://www.cs.cmu.edu/~kmcrane/Projects/ModelRepository/origins.jpg)|![Keenan](https://www.cs.cmu.edu/~kmcrane/Projects/ModelRepository/Nefertiti.png)|
+   |![Keenan](https://wsrv.nl/?url=https://www.cs.cmu.edu/~kmcrane/Projects/ModelRepository/spot.png&w=150)|![Keenan](https://wsrv.nl/?url=https://www.cs.cmu.edu/~kmcrane/Projects/ModelRepository/bob.png&w=150)|![Keenan](https://wsrv.nl/?url=https://www.cs.cmu.edu/~kmcrane/Projects/ModelRepository/blub.jpg&w=150)|![Keenan](https://wsrv.nl/?url=https://www.cs.cmu.edu/~kmcrane/Projects/ModelRepository/origins.jpg&w=150)|![Keenan](https://wsrv.nl/?url=https://www.cs.cmu.edu/~kmcrane/Projects/ModelRepository/Nefertiti.png&w=150)|
+
+
+   [Scotty3Dataset](https://github.com/keenancrane/Scotty3Dataset), 2020 [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+
+   ![Scotty3Dataset](https://github.com/keenancrane/Scotty3Dataset/blob/main/mosaic.png?raw=true)
+
+   See [Keenan's 3D Model Repository](https://www.cs.cmu.edu/~kmcrane/Projects/ModelRepository/) for more
+
 
 -  [The Utah 3D Animation Repository](http://www.sci.utah.edu/~wald/animrep/)
 
