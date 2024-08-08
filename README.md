@@ -19,6 +19,10 @@ __Note__: This list is not regularly updated and is looking for maintainers. If 
 
     ![abo](https://amazon-berkeley-objects.s3.amazonaws.com/static_html/assets/render_collection_bright_b.jpg)
 
+1. [BuildingNet: Learning to Label 3D Buildings](https://buildingnet.org/), 2k buildings with surface labels
+
+    ![BuildingNet](https://buildingnet.org/images/teaser.png)
+
 1. [3D-FUTURE: 3D FUrniture shape with TextURE](https://tianchi.aliyun.com/specials/promotion/alibaba-3d-future), 2021
 
     ![3dfuture](https://img.alicdn.com/tfs/TB1HTSfz4v1gK0jSZFFXXb0sXXa-1999-1037.png)
